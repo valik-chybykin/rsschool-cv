@@ -1,9 +1,9 @@
-@@ -1,26 +1,46 @@
+
  # Valiantin Chubykin
  iOS Developer
 
 
- *I am looking for an iOS developer position in Minsk.Design and development of own application "ContoraMinsk". It is based on the use of Google Maps and the ability of users to mark the location of controllers on the map.
+ *I am looking for an iOS developer position in Minsk.Design and development of own application "ContoraMinsk". It is based on the use of Google Maps and the ability of users to mark the location of controllers on the map.*
 
  ----
  ## Contacts
@@ -38,5 +38,5 @@
 
  **IT Academy**: 2019
 
- **Belarusian Lyceum #3: 2015
+ **Belarusian Lyceum #3**: 2015
 
